@@ -1,0 +1,50 @@
+.login-form {
+    height: 100%;
+}
+
+.login-form-buttons {
+    width: 100%;
+    height: 60px;
+    padding: 8px;
+}
+
+.login-form-button-login {
+    float: left;
+    padding-left: 20%;
+    width: 51%;
+}
+
+.login-form-button-login .raised-button {
+    background-color: #6c757d !important;
+}
+
+.login-form-button-signup {
+    float: right;
+    width: 49%;
+    padding-right: 20%;
+}
+
+.login-form-button-signup .raised-button {
+    background-color: white !important;
+}
+
+.login-form-choices {
+    width: 100%;
+    height: 40px;
+    padding: 8px;
+}
+
+.login-form-choices-remember {
+    width: 50%;
+    float: left;
+    padding-left: 16%;
+    color: black;
+}
+
+.login-form-choices-forgot {
+    float: right;
+    width: 50%;
+    padding-right: 28%;
+    color: black;
+    cursor: pointer;
+}

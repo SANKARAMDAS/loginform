@@ -1,0 +1,40 @@
+.intensel {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    color: white;
+    background-color: white;
+}
+
+.banner {
+    width: 50%;
+    background: cornflowerblue;
+}
+
+.banner-img {
+    width: 80%;
+    height: 50%;
+    margin-top: 120px;
+}
+
+.functional {
+    width: 50%;
+}
+
+.functional-form {
+    padding-top: 3%;
+    height: 73%;
+}
+
+.functional-terms {
+    color: black !important;
+    font-family: sans-serif;
+    font-size: 12px;
+    height: 3%;
+}
+
+.functional-img {
+    width: 79%;
+    height: 16%;
+    margin-top: 30px;
+}

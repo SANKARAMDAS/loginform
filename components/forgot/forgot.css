@@ -1,0 +1,18 @@
+.forgot-form {
+    width: 80%;
+    height: 100%;
+    padding: 80px;
+}
+
+.forgot-form-button {
+    color: black;
+}
+
+.forgot-form-email {
+    width: 100%;
+}
+
+.forgot-form-button-signin {
+    color: black;
+    padding: 16px;
+}
